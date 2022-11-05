@@ -19,9 +19,9 @@ static const char *fonts[]          = { "UbuntuMono:size=12" };
 static const char dmenufont[]       = "UbuntuMono:size=12";
 static const char col_gray1[]       = "#222222";
 static const char col_gray2[]       = "#444444";
-static const char col_gray3[]       = "#ffffff";
-static const char col_gray4[]       = "#888888"; //selected foreground (greens is 888888)
-static const char col_cyan[]        = "#222222";
+static const char col_gray3[]       = "#bbbbbb";
+static const char col_gray4[]       = "#eeeeee"; //selected foreground (greens is 888888)
+static const char col_cyan[]        = "#bd93f9";
 static const char *colors[][3]      = {
 	/*               fg         bg         border   */
 	[SchemeNorm] = { col_gray3, col_gray1, col_gray2 },
